@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KH-Ontime</string>
+
+    <!-- Main Menu -->
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="inbox">Inbox</string>
+    <string name="setting">Setting</string>
+
+    <string name="search_messages">Search messages</string>
+</resources>
